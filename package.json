@@ -100,7 +100,7 @@
     "node": ">=20.12.0",
     "pnpm": ">=10.0.0"
   },
-  "packageManager": "pnpm@10.22.0",
+  "packageManager": "pnpm@10.27.0",
   "pnpm": {
     "peerDependencyRules": {
       "allowedVersions": {
